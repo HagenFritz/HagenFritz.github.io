@@ -28,9 +28,13 @@ url: "https://hagenfritz.github.io" # the base hostname & protocol for your site
 twitter_username: TheHage
 github_username:  HagenFritz
 
+# minima settings
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+
 # Build settings
 theme: minima
-  skin: dark
 plugins:
   - jekyll-feed
 
