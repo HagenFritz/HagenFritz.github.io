@@ -30,6 +30,7 @@ github_username:  HagenFritz
 
 # Build settings
 theme: minima
+  skin: dark
 plugins:
   - jekyll-feed
 
