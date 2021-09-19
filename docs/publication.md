@@ -3,8 +3,6 @@ layout: page
 title: Publication
 ---
 
----
-
 ## Theses
 
 ---
@@ -13,8 +11,6 @@ Effects of scented personal care products on ozone reactivity with human buildin
 
 Novel Methods of Collecting, Processing, and Analyzing Ecologically-Valid, Multi-Modal Environmental Data Gathered from Consumer-Grade Devices in the Field _(Working)_
 
----
-
 ## Journal
 
 ---
@@ -22,8 +18,6 @@ Novel Methods of Collecting, Processing, and Analyzing Ecologically-Valid, Multi
 * Levin, M. W., Fritz, H., & Boyles, S. D. (2017). On Optimizing Reservation-Based Intersection Controls. IEEE Transactions on Intelligent Transportation Systems, 18(3), 505-515.
 * Park, J. Y., Dougherty, T., Fritz, H., & Nagy, Z. (2018). LightLearn: An adaptive and occupant centered controller for lighting based on reinforcement learning. Building and Environment.
 * Ganesh, H. S., Fritz, H. E., Edgar, T. F., Novoselac, A., & Baldea, M. (2019). A model-based dynamic optimization strategy for control of indoor air pollutants. Energy and Buildings, 195, 168-179.
-
----
 
 ## Conference
 
@@ -34,8 +28,6 @@ Novel Methods of Collecting, Processing, and Analyzing Ecologically-Valid, Multi
 * J.Y. Park, T. Dougherty, H. Fritz, and Z. Nagy, "LightLearn: Occupant centered building controller using reinforcement learning to adapt systems to humans", 7th International Building Physics Conference IBPC2018, Syracuse NY, September 2018
 * R. Corsi, L. Lesnick, H. Fritz, and A. Novoselac. Ozone Deposition in Portable Classrooms in Central Texas. International Society of Indoor Air Quality & Climate (ISIAQ): Indoor Air 2018, Philadelphia, PA. July 2018
 * J.Y. Park, T. Dougherty, H. Fritz, and Z. Nagy, "Reinforcement Learning for Occupant Centered Building Control System", Living LabWorkshop in the ACM Conference on Human Factors in Computing Systems, Montreal Canada, April 2018
-
----
 
 ## Other
 
