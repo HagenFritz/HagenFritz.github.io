@@ -19,6 +19,8 @@ permalink: /mentoring/
 
 ## Former Students
 
+---
+
 ### Calvin Lin
 **Department**: BS Environmental Engineering, University of Texas at Austin, 2020
 
