@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mentoring
-permalink: /mentoring/
+title: Teaching
+permalink: /teaching/
 ---
 
 ---
@@ -83,4 +83,43 @@ permalink: /mentoring/
 **Department**: UT New Student Services
 
 **Semesters**: Summer 2013
+
+---
+# Teaching
+---
+
+## UT CAEE Department, Graduate Teaching Assistant
+
+### Course: HVAC Design - Fall 2020
+Professor: Dr. Zoltan Nagy
+* Provided introductory lessons on Python and Jupyter Notebook in addition to a few lectures covering psychrometrics and heat exchangers
+* Held office hours each week and graded all assignments including homeworks, quizzes, exams, and final projects
+
+### Introduction to Architectural Engineering - Fall 2018
+Professor: Dr. Atila Novoselac
+* Helping students to understand and construct wood-frame models for residential construction and evaluating and grading student groups’ model
+* Teaching students the basics of energy analysis through the use of a simplified case study that builds off a wood-frame model developed in the first part of the course
+
+###  Introduction to Computer Methods - Fall 2016, 17, and Spring 2017
+Professor: Dr. Howard Liljestrand
+* Organization and programming of civil engineering problems for computer solutions
+* Helped lead lab sections and write/debug code with students
+
+### Elementary Mechanics of Fluids - Summer 2018
+Professor: Dr. Howard Liljestrand
+* Fluid properties, hydrostatics, elements of fluid dynamics, energy and momentum, boundary layers, similitude, pipe flow, metering instruments, drag forces
+* Conducted various experiments to demonstrate basic principles of fluid mechanics
+
+### Probability and Statistics for Civil Engineers - Spring 2018
+Professor: Dr. Howard Liljestrand
+* Basic theory of probability and statistics with practical applications to civil engineering problems, including statistical inference and sampling
+* Lead lab sections, held office hours, and graded all but major assignments
+
+## UT PED/KIN Department, Teaching Assistant
+
+### Beginning, Intermediate, and Advanced Volleyball - Spring 2018 to Now
+Head Coach: Geoff Rich, Department of Kinesiology and Health Education | UT Austin
+* Helped with each level of the course throughout many semesters, typically helping with at least two courses during a semester
+* Assisted the head coach by leading drills, helping to develop student’s techniques, officiating in-class games, managing equipment, and providing feedback during games and drills.
+
 
