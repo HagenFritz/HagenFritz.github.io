@@ -5,17 +5,11 @@ title: Publication
 
 ---
 
-## Thesis
+## Theses
 
 ---
 
 Effects of scented personal care products on ozone reactivity with human building occupants -- see [here](https://repositories.lib.utexas.edu/handle/2152/84712)
-
----
-
-## Dissertation
-
----
 
 Novel Methods of Collecting, Processing, and Analyzing Ecologically-Valid, Multi-Modal Environmental Data Gathered from Consumer-Grade Devices in the Field _(Working)_
 
