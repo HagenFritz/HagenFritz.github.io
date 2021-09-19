@@ -50,13 +50,29 @@ Technologies for Renewable Energy Generation and Management NSF REU, Rolla MO
 
 ---
 
+### Grants
+
+---
+
 Walter L. and Reta Mae Moore Graduate Fellowship, University of Texas, 2016
 
 University of Texas Legacy Scholar Scholarship, University of Texas, 2016
 
+Green Fund Grant, University of Texas, 2021
+
+### Awards
+
+---
+
 People’s Choice Award, UT CAEE Sustainable Doghouse Challenge, 2017
 
 Outstanding Teaching Assistant, UT CAEE, 2018
+
+People’s Choice Award, UT CAEE Graduate Student Symposium, 2021
+
+### Certifications
+
+---
 
 Human Subjects Research Training, UT Internal Review Board, 2019
 
