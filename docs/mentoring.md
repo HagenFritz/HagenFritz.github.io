@@ -23,7 +23,6 @@ permalink: /mentoring/
 **Department**: BS Environmental Engineering, University of Texas at Austin, 2020
 
 **Project**: Bleed Orange, Measure Purple - Low-Cost Particulate Matter Sensor Network on UT's Campus
----
 
 ### Robert Estrada 
 **Department**: BS Environmental Engineering, University of Texas at Austin
@@ -31,13 +30,11 @@ permalink: /mentoring/
 **Project**: WCWH UTx000 - REDCap Survey Analysis
 
 **Year(s) Advised**: 2020
----
 
 ### Wendy Zhang
 **Department**BS Civil Engineering, University of Texas at Austin, 2019
 
 **Project**: Austin Passive House
----
 
 ### Cassandra Prince
 **Department**BS Civil Engineering, University of Texas at Austin
@@ -45,7 +42,6 @@ permalink: /mentoring/
 **Project**: Bleed Orange, Measure Purple - Low-Cost Particulate Matter Sensor Network on UT's Campus
 
 **Year(s) Advised**: 2019
---- 
 
 ### Dung (Pearl) Le
 **Department**: BS Mechanical Engineering, University of Texas at Austin
