@@ -21,5 +21,5 @@ title: Publication
 
 ## Other
 
-Kockelman, K. M., Boyles, S. D., Avery, P., Claudel, C., Bansal, P., Loftus-Otway, L., Wagner, W., Stewart, D., Sharon, G., Albert, M., Fritz, H., & Clements, L. (2016). Bringing smart transport to Texans: ensuring the benefits of a connected and autonomous transport system in Texas--final report(No. FHWA/TX-16/0-6838-2). Texas. Dept. of Transportation. Research and Technology Implementation Office.
-Kockelman, K., Boyles, S., Stone, P., Fagnant, D., Patel, R., Levin, M. W., Sharon G., Simoni, M., Albert, M., Fritz, H., & Hutchinson, R. (2017). An assessment of autonomous vehicles: traffic impacts and infrastructure needs (No. FHWA/TX-17/0-6847-1). University of Texas at Austin. Center for Transportation Research.
+* Kockelman, K. M., Boyles, S. D., Avery, P., Claudel, C., Bansal, P., Loftus-Otway, L., Wagner, W., Stewart, D., Sharon, G., Albert, M., Fritz, H., & Clements, L. (2016). Bringing smart transport to Texans: ensuring the benefits of a connected and autonomous transport system in Texas--final report(No. FHWA/TX-16/0-6838-2). Texas. Dept. of Transportation. Research and Technology Implementation Office.
+* Kockelman, K., Boyles, S., Stone, P., Fagnant, D., Patel, R., Levin, M. W., Sharon G., Simoni, M., Albert, M., Fritz, H., & Hutchinson, R. (2017). An assessment of autonomous vehicles: traffic impacts and infrastructure needs (No. FHWA/TX-17/0-6847-1). University of Texas at Austin. Center for Transportation Research.
