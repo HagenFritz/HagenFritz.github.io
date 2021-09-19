@@ -58,7 +58,7 @@ PI: Dr. Spyros Kinnas and Allen Du, Civil, Architectural and Environmental Engin
 
 Dec 2015 – Aug 2016
 
---
+---
 
 * Selected to assist graduate research students with optimizing the design of ducted propellers and turbines.
 * Simulated the design of the propellers and turbines in ANSYS Fluent and analyzed the results using a linked
@@ -69,7 +69,7 @@ PI: Dr. Stephen Boyles and Michael Levin, Civil, Architectural and Environmental
 
 Dec 2014 – July 2016
 
---
+---
 
 * Selected to assist graduate research students in the areas of intersection management of autonomous vehicles
 and presented findings at a poster competition on campus
