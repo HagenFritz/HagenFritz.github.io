@@ -3,6 +3,8 @@ layout: page
 title: Resume
 ---
 
+[Link to Document](https://github.com/HagenFritz/HagenFritz.github.io/blob/main/docs/CV_HEF_09222021.pdf)
+
 # Education
 
 ---
