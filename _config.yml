@@ -39,7 +39,7 @@ minima:
     github:  HagenFritz
 # Custom Fields
 # title-logo: to create a title logo; 50 px height is ideal
-#title-logo: /images/title-image.png
+title-logo: /images/title-image.png
 
 # Build settings
 # Using regular theme:
