@@ -21,21 +21,22 @@
 title: Hagen Fritz
 email: hagenfritz@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Testing
+  Thank you for visiting my site - feel free to poke around. If you have any questions,
+  don't hesitate to reach out!
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://hagenfritz.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Fields that minima uses that are not default
 author: Hagen Fritz
-linkedin: hagenearlfritz
-instagram: itshagennothagen
-twitter: TheHage
-github:  HagenFritz
 # minima settings
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
-
+  social_links:
+    linkedin: hagenearlfritz
+    instagram: itshagennothagen
+    twitter: TheHage
+    github:  HagenFritz
 # Custom Fields
 # title-logo: to create a title logo; 50 px height is ideal
 #title-logo: /images/title-image.png
