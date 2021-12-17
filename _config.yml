@@ -27,6 +27,9 @@ url: https://hagenfritz.github.io # the base hostname & protocol for your site, 
 twitter_username: TheHage
 github_username:  HagenFritz
 
+# Fields that minima uses that are not default
+author: Hagen Fritz
+
 # minima settings
 minima:
   date_format: "%b %-d, %Y"
