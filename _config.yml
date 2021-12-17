@@ -29,11 +29,13 @@ github_username:  HagenFritz
 
 # Fields that minima uses that are not default
 author: Hagen Fritz
-
 # minima settings
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
+
+# Custom Fields
+
 
 # Build settings
 # Using regular theme:
